@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+torch
+torchvision
+tensorflow
+scikit-image
+scikit-learn
+gradio
